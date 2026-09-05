@@ -41,6 +41,10 @@ Abrimos sólo piezas cuya publicación aporta utilidad, transparencia o capacida
 - [`design-system`](https://github.com/desarrollamo/design-system) — sistema visual reusable construido sobre la marca versionada.
 - [`web`](https://github.com/desarrollamo/web) — baseline público y mantenible del sitio oficial.
 
+### Ejemplos técnicos
+
+- [design-system/examples](https://github.com/desarrollamo/design-system/tree/main/examples) — specimen pequeño para inspeccionar componentes y estados del sistema visual.
+
 ## Evidencia pública
 
 - [Sitio oficial](https://desarrollamo.com.ar/) — presencia pública de DesarrollAMO.
