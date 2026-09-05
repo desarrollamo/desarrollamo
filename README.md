@@ -45,6 +45,12 @@ Abrimos sólo piezas cuya publicación aporta utilidad, transparencia o capacida
 
 - [design-system/examples](https://github.com/desarrollamo/design-system/tree/main/examples) — specimen pequeño para inspeccionar componentes y estados del sistema visual.
 
+## Documentación pública
+
+- [Uso de Branding](https://github.com/desarrollamo/branding/blob/main/docs/usage.md)
+- [Design System](https://github.com/desarrollamo/design-system#readme)
+- [Verificar descargas de StoreAMO](https://github.com/desarrollamo/storeamo/blob/main/docs/VERIFY_DOWNLOAD.md)
+
 ## Versiones oficiales
 
 - [StoreAMO Releases](https://github.com/desarrollamo/storeamo/releases) — APKs y hashes publicados.
