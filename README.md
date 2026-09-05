@@ -33,11 +33,16 @@
 - **Software mantenible.** Reutilizamos lo bueno y evitamos reemplazar sistemas sin entenderlos.
 - **Transparencia.** No presentamos métricas, clientes, ingresos o capacidades ficticias como reales.
 
-## Evidencia pública
+## Open source seleccionado
+
+Abrimos sólo piezas cuya publicación aporta utilidad, transparencia o capacidad técnica verificable:
 
 - [`branding`](https://github.com/desarrollamo/branding) — identidad visual oficial, assets y tokens versionados.
-- [`design-system`](https://github.com/desarrollamo/design-system) — patrones visuales reutilizables y verificables.
-- [storeamo](https://github.com/desarrollamo/storeamo) — catálogo, descargas y documentación pública de StoreAMO.
+- [`design-system`](https://github.com/desarrollamo/design-system) — sistema visual reusable construido sobre la marca versionada.
+- [`web`](https://github.com/desarrollamo/web) — baseline público y mantenible del sitio oficial.
+
+## Evidencia pública
+
 - [Sitio oficial](https://desarrollamo.com.ar/) — presencia pública de DesarrollAMO.
 - [Galería](https://desarrollamo.com.ar/galeria/) — trabajos y proyectos publicados.
 
