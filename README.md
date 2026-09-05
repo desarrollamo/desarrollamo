@@ -37,7 +37,7 @@
 
 - [`branding`](https://github.com/desarrollamo/branding) — identidad visual oficial, assets y tokens versionados.
 - [`design-system`](https://github.com/desarrollamo/design-system) — patrones visuales reutilizables y verificables.
-- [`web`](https://github.com/desarrollamo/web) — fuente pública seleccionada de desarrollamo.com.ar.
+- [Sitio oficial](https://desarrollamo.com.ar/) — presencia pública de DesarrollAMO.
 - [Galería](https://desarrollamo.com.ar/galeria/) — trabajos y proyectos publicados.
 
 La superficie pública es intencionalmente pequeña: mostramos aquello que ayuda a evaluar nuestro trabajo sin exponer procesos internos, datos de clientes ni infraestructura operativa.
