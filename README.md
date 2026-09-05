@@ -45,6 +45,12 @@ Abrimos sólo piezas cuya publicación aporta utilidad, transparencia o capacida
 
 - [design-system/examples](https://github.com/desarrollamo/design-system/tree/main/examples) — specimen pequeño para inspeccionar componentes y estados del sistema visual.
 
+## Versiones oficiales
+
+- [StoreAMO Releases](https://github.com/desarrollamo/storeamo/releases) — APKs y hashes publicados.
+- [Branding Releases](https://github.com/desarrollamo/branding/releases) — versiones de identidad y tokens.
+- [Design System Releases](https://github.com/desarrollamo/design-system/releases) — versiones del sistema visual público.
+
 ## Evidencia pública
 
 - [Sitio oficial](https://desarrollamo.com.ar/) — presencia pública de DesarrollAMO.
